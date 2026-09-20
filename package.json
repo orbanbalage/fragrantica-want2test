@@ -1,0 +1,23 @@
+{
+  "name": "fragrantica-want2test",
+  "version": "1.0.0",
+  "description": "Create Bookmarklets that move Perfumes from the \"I Want\" shelf to the \"for test\" shelf in your Wardrobe",
+  "homepage": "https://github.com/orbanbalage/fragrantica-want2test#readme",
+  "bugs": {
+    "url": "https://github.com/orbanbalage/fragrantica-want2test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbanbalage/fragrantica-want2test.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "@orbanbalage",
+  "type": "commonjs",
+  "main": "01_main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bookmarklet": "^3.0.0"
+  }
+}
